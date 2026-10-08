@@ -1,7 +1,5 @@
 <div align="center">
 
-[简体中文](README.md) | [English](README_EN.md)
-
 # 你好，我是陈泓妤 👋
 
 ### Hongyu Chen · 南京大学本科生
