@@ -6,9 +6,6 @@
 
 南京大学智能科学与技术学院
 
-[![邮箱](https://img.shields.io/badge/邮箱-251880376%40smail.nju.edu.cn-8B5CF6?style=flat-square&logo=gmail&logoColor=white)](mailto:251880376@smail.nju.edu.cn)
-[![GitHub](https://img.shields.io/badge/GitHub-Greengreen--0211-181717?style=flat-square&logo=github)](https://github.com/Greengreen-0211)
-
 </div>
 
 ---
